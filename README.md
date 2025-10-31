@@ -2,7 +2,7 @@
 
 Hi there, I'm Detective!
 
-I am a queer writer and game developer based out of San Marcos, Texas. Currently, I am in university for computer science with additional studies in creative writing and Japanese. I am studying C++ and have previously learned Python, Java, and JavaScript. My game engines of choice are Godot and GameMaker. I love programming, writing, drawing, baking, and playing video games.
+I am a queer writer and game developer based out of San Marcos, Texas. Currently, I am in university for computer science with additional studies in creative writing and Japanese. I am studying C++ and have previously learned Python, Java, and JavaScript. My game engine of choice is Godot. Other hobbies of mine are drawing, baking, and playing video games.
 
 My all-time favorite games are the Hollow Knight and Persona series.
 
